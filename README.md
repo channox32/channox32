@@ -33,6 +33,12 @@
 \
 \
 \
+\
+\
+\
+\
+\
+\
 🛠 **Tech Stack**
 
 > Frontend
