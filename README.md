@@ -37,16 +37,7 @@
 \
 \
 \
-\
-\
-\
-\
-\
-\
-\
-
 ### 🛠 Tech Stack
-
 > Frontend
 
 ![HTML5](https://img.shields.io/badge/-HTML5-fff?style=flat&logo=HTML5)
