@@ -4,9 +4,9 @@
 
 ### Hi there, I am Christian Rey Flores 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-christianreyflores-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-rey-flores/)](https://www.linkedin.com/in/christian-rey-flores/)
-[![Gmail Badge](https://img.shields.io/badge/-flores.christianrey@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flores.christianrey@gmail.com)](mailto:flores.christianrey@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/-ChristianReyFloresPortfolio-000000?style=flat&logo=github&logoColor=ffffff&link=https://channox32.github.io/)](https://channox32.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-christianreyflores-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-rey-flores/)](https://www.linkedin.com/in/christian-rey-flores/)\
+[![Gmail Badge](https://img.shields.io/badge/-flores.christianrey@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flores.christianrey@gmail.com)](mailto:flores.christianrey@gmail.com)\
+[![Portfolio](https://img.shields.io/badge/-ChristianReyFloresPortfolio-fff?style=flat&logo=github&logoColor=000&link=https://channox32.github.io/)](https://channox32.github.io/)
 
 ### 💻  Interests
 
@@ -25,18 +25,7 @@
     <a href="javascript:void(0)">
         <img align="left" width="auto" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=channox32&theme=synthwave&layout=compact&hide_border=true" />
     </a>
-
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ### 🛠 Tech Stack
 > Frontend
 
