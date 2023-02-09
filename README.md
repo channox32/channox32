@@ -17,7 +17,7 @@
     <a href="javascript:void(0)">
       <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=channox32&show_icons=true&theme=synthwave&border_color=61dafb&hide_border=true&count_private=true&include_all_commits=true" />
     </a>
-    
+    <br/>
     <a href="javascript:void(0)">
         <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=channox32&theme=synthwave&layout=compact" />
     </a>
