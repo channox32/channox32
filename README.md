@@ -8,11 +8,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-flores.christianrey@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flores.christianrey@gmail.com)](mailto:flores.christianrey@gmail.com) 
 [![Portfolio](https://img.shields.io/badge/-ChristianReyFloresPortfolio-000000?style=flat&logo=github&logoColor=ffffff&link=https://channox32.github.io/)](https://channox32.github.io/)
 
-💻  **Interests**
+### 💻  Interests
+
 - Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Blockchain Development 🐶
 - Web3 🚀
 - ChatGPT🤖 
+
+
 \
 \
 \
@@ -39,7 +42,10 @@
 \
 \
 \
-🛠 **Tech Stack**
+\
+\
+
+### 🛠 Tech Stack
 
 > Frontend
 
