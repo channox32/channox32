@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/channox32/channox32/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://raw.githubusercontent.com/channox32/channox32/master/developer.gif" alt="Coder GIF" width="420" height="330">
 
 
 
@@ -13,7 +13,9 @@
 - Blockchain Development 🐶
 - Web3 🚀
 - ChatGPT🤖 
-
+\
+\
+\
     <a href="javascript:void(0)">
       <img align="right" width="auto" height="auto" src="https://github-readme-stats.vercel.app/api?username=channox32&show_icons=true&theme=synthwave&border_color=61dafb&hide_border=true&count_private=true&include_all_commits=true" />
     </a>
