@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://github.com/channox32/channox32/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 
 
 
@@ -21,6 +21,16 @@
         <img align="left" width="auto" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=channox32&theme=synthwave&layout=compact&hide_border=true" />
     </a>
 
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
 🛠 **Tech Stack**
 
 > Frontend
