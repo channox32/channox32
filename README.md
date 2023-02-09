@@ -3,36 +3,35 @@
 
 
 ### Hi there, I am Christian Rey Flores 👋
+
 [![Linkedin Badge](https://img.shields.io/badge/-christianreyflores-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-rey-flores/)](https://www.linkedin.com/in/christian-rey-flores/)
 [![Gmail Badge](https://img.shields.io/badge/-flores.christianrey@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flores.christianrey@gmail.com)](mailto:flores.christianrey@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/-ChristianReyFloresPortfolio-000000?style=flat&logo=github&logoColor=ffffff&link=https://channox32.github.io/)](https://channox32.github.io/)
 
-- 🎯 Portfolio website: [Portfolio](https://channox32.github.io/)
-
-💻 **Things I love**
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Backend Development ✍️
-- Machine Learning 🧐
-- Data Science 😬
+💻 **Interests**
+- Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Blockchain Development 🐶
+- Web3 🚀
+- ChatGPT🤖 
 
     <a href="javascript:void(0)">
-      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=channox32&show_icons=true&theme=synthwave&border_color=61dafb&hide_border=true&count_private=true&include_all_commits=true" />
+      <img align="right" width="auto" height="auto" src="https://github-readme-stats.vercel.app/api?username=channox32&show_icons=true&theme=synthwave&border_color=61dafb&hide_border=true&count_private=true&include_all_commits=true" />
     </a>
-    <br/>
     <a href="javascript:void(0)">
-        <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=channox32&theme=synthwave&layout=compact" />
+        <img align="right" width="auto" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=channox32&theme=synthwave&layout=compact&hide_border=true" />
     </a>
-    
+
 🛠**Tech Stack**
 
 > Frontend
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)&#x2011;
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)&#x2011;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)&#x2011;
-![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwindcss)&#x2011;
-![AngularJS](https://img.shields.io/badge/-ReactJS-000000?style=flat&logo=angularjs)&#x2011;
-![ReactJS](https://img.shields.io/badge/-ReactJS-000000?style=flat&logo=react)&#x2011;
-![VueJS](https://img.shields.io/badge/-VueJS-000000?style=flat&logo=vuedotjs)&#x2011;
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwindcss)
+![AngularJS](https://img.shields.io/badge/-ReactJS-000000?style=flat&logo=angularjs)
+![ReactJS](https://img.shields.io/badge/-ReactJS-000000?style=flat&logo=react)
+![VueJS](https://img.shields.io/badge/-VueJS-000000?style=flat&logo=vuedotjs)
 
 > Backend
 
