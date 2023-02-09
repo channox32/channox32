@@ -25,7 +25,9 @@
     <a href="javascript:void(0)">
         <img align="left" width="auto" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=channox32&theme=synthwave&layout=compact&hide_border=true" />
     </a>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 ### 🛠 Tech Stack
 > Frontend
 
